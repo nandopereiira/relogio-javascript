@@ -4,25 +4,26 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Relógio Javascript</title>
     <link rel="stylesheet" href="./assets/css/style.css">
 </head>
-<body>
+<body class="" onload="relogio()">
     <header>
-        <img src="./assets/imagens/bg-manha.jpg" alt="foto do dia">
+        <img id="imagem" src="./assets/imagens/bg-manha.jpg" alt="foto do dia">
     </header>
-    <h1>Hora do Dia</h1>
-
-
-
-    <section>
-        <div>
-            Agora são exatamente:
-        </div>
-
-        <div>
-
-        </div>
-    </section>
+    <div class="container">
+        <h1>Relógio Javascript</h1>
+        <div class="ball-gigantright"></div> 
+        <div class="ball-left2"></div>
+        <div class="ball-right1"></div>
+        <section>   
+            <div id="display" ></div>
+            <div  id="msg"></div>              
+            <div class="ball-left1"></div>
+            <div class="ball-right2"></div> 
+            <div class="ball-gigantleft"></div>     
+        </section>
+    </div>
+            <script src="./assets/js/script.js"></script>
 </body>
 </html>
