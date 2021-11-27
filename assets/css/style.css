@@ -6,7 +6,8 @@ body {
     letter-spacing: 1px;
     width: 100vw;
     height: 100vh;
-    transition: all 500ms ease-in-out;
+    background: #040404;
+    transition: all .5s ease-in-out;
 }
 img {
     background-size: cover;
@@ -18,9 +19,25 @@ img {
 }
 h1 {
     position:fixed;
-    font-size: 3rem;
-    top: 0;
-    text-shad
+    top: 30px;
+    color: #ffffff; font-family: 'Raleway',sans-serif;
+    font-size: 35px; 
+    font-weight: 800;
+    line-height: 72px; 
+    margin: 0 0 24px; 
+    text-align: center; 
+    text-transform: uppercase; 
+    text-shadow: 0.1em 0.1em 0.2em black;
+    transition: all .8s ease-in-out; 
+    padding:10px;
+}
+h1:hover, h1:focus {
+    color:#d4d4d4;
+    padding:10px;    
+    transition: all .8s ease-in-out;
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
 }
 #display {
     font-size: 5rem;
@@ -55,6 +72,7 @@ section {
     font-size: 2rem;
     border-bottom: 1px solid none;
     transition: all .8s ease-in-out;
+    
 }
 #msg:hover, #msg:focus {
     margin-top: 20px;
@@ -65,7 +83,6 @@ section {
     -ms-transform: scale(1.2);
     transform: scale(1.2);
 }
-
 .ball-left1, .ball-right1, .ball-left2, .ball-right2, .ball-gigantleft, .ball-gigantright {
     position:absolute; 
     backdrop-filter: blur( 4px );

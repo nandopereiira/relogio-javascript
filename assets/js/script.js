@@ -7,6 +7,7 @@ function relogio() {
     var minutos = agora.getMinutes()
     var segundos = agora.getSeconds()
 
+var hora = 22
     
     // CONTROLE DE HORA
     if (hora < 10 ) {
@@ -27,7 +28,7 @@ function relogio() {
         var segundos = `${segundos}` 
     }
     
-    var hora = 14
+    
 
     // DISPLAY DO RELÓGIO AUTOMÁTICO
     display.innerHTML = `${hora} : ${minutos} : ${segundos}`
