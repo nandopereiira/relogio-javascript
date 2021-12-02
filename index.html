@@ -7,7 +7,7 @@
     <title>Relógio Javascript</title>
     <link rel="stylesheet" href="./assets/css/style.css">
 </head>
-<body class="" onload="relogio()">
+<body class="">
     <header>
         <img id="imagem" src="./assets/imagens/bg-manha.jpg" alt="foto do dia">
     </header>
@@ -22,7 +22,13 @@
             <div class="ball-left1"></div>
             <div class="ball-right2"></div> 
             <div class="ball-gigantleft"></div>     
+
+            <input type="number" id="numeros" placeholder="Escolha entre 0 e 23 horas!">
+            <button onclick="mudarHoras()" id="btn-mudar" title="Aqui você">Mudar</button> 
+            <button onclick="resetar()" id="btn-resetar">Resetar</button>
         </section>
+
+       
     </div>
             <script src="./assets/js/script.js"></script>
 </body>

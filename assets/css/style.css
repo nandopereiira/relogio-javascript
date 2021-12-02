@@ -42,7 +42,7 @@ h1:hover, h1:focus {
 #display {
     font-size: 5rem;
     border-radius: 15px;
-    background: rgba(18,2,31,.3);
+    background: rgba(18,2,31,.2);
     border: 2px solid rgba( 0, 0, 0, 0.18 ); 
     padding:10px;
 }
@@ -65,19 +65,23 @@ section {
     backdrop-filter: blur( 4px );
     -webkit-backdrop-filter: blur( 4px );
     border-radius: 10px;
-    border: 2px solid rgba( 0, 0, 0, 0.18 );    
+    border: 2px solid rgba( 0, 0, 0, 0.18 );  
+    animation: zoom 11s  alternate infinite;  
 }
 #msg {
     margin-top: 20px;
-    font-size: 2rem;
-    border-bottom: 1px solid none;
+    color: #d96212;
+    font-family: 'Raleway',sans-serif;
+    font-size: 35px; 
+    font-weight: 800;
+    padding-bottom: 10px;
     transition: all .8s ease-in-out;
-    
+    text-shadow: 0.1em 0.1em 0.2em black;
+    animation: zoom2 2s  alternate infinite;    
+    animation-delay: 8s; 
 }
 #msg:hover, #msg:focus {
     margin-top: 20px;
-    font-size: 2rem;
-    border-bottom: 1px solid #fff;
     transition: all .8s ease-in-out;
     -webkit-transform: scale(1.2);
     -ms-transform: scale(1.2);
@@ -110,7 +114,7 @@ section {
 .ball-left2 {
     width:20px;
     height:20px;
-    left:33%;
+    left:31%;
     top:300px;     
     animation: float 5s infinite alternate;
 }
@@ -155,4 +159,41 @@ section {
       transform: translateY(0);      
     }
   }
- 
+  @-webkit-keyframes zoom {
+      100% {
+        transform: scale(1);
+      }
+      0% {
+        transform: scale(1.03);
+      }
+    } 
+    @-webkit-keyframes zoom2 {
+        100% {
+          transform: scale(1);
+        }
+        0% {
+          transform: scale(1.1);
+        }
+      } 
+  
+#btn-mudar, #btn-resetar {
+    margin: 5px;
+    border-radius: 15px;
+    padding:07px 17px;
+    background: rgba(0, 0, 0, 0.3);
+    color:#fff;
+    border: 1px solid #444343;
+    text-shadow: 0.1em 0.1em 0.2em black;
+    transition: all .8s ease-in-out;
+}
+#btn-mudar:hover, #btn-resetar:hover {
+    background-color: orangered;
+    box-shadow: 0px 4px 22px 0 rgba(233, 118, 11, 0.8);
+
+}
+input {
+    height: 20px;
+    width: 200px;
+    border-radius: 15px;
+    text-align: center;
+}
