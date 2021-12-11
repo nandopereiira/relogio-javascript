@@ -1,14 +1,14 @@
 
 <h1 align="center">
 <a href="https://nandopereiira.github.io/relogio-javascript/" align="center">
-<img alt="Relogio Javascript" title="Responsividade da Página" width="500px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/Rel%C3%B3gio%20Javascript.gif"/></a> </h1> <br/>
+<img alt="Relogio Javascript" title="Clique aqui para testar" width="500px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/Rel%C3%B3gio%20Javascript.gif"/></a> </h1> <br/>
   
 <p align="center">  <img alt="estilo do relogio page" title="estilo de dia" width="200px" height="100px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20dia.png" />  <img alt="estilo do relogio page" title="estilo de tarde" width="200px" height="100px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20tarde.png" />  <img alt="estilo do relogio page" title="estilo de noite" width="200px" height="100px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20noite.png" />  <img alt="estilo do relogio page" title="estilo de madrugada" width="200px" height="100px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20madrugada.png" /></p> 
 
 
 <h1 align="center">Relógio Digital Automático Javascript</h1>
 
- <p>🚀 Link do Projeto: <a color="#ff0000" href="https://nandopereiira.github.io/relogio-javascript/">Tribute Page</p>
+ <p>🚀 Link do Projeto: <a color="#ff0000" href="https://nandopereiira.github.io/relogio-javascript/">Tribute Page</p></a>
 
   
 <p align="left">Relógio Digital Automático em Html, Css e Javascript, como mudança dinâmica de estilo e tema de background
