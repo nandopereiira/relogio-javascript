@@ -8,8 +8,8 @@
 
 <h1 align="center">Relógio Digital Automático Javascript</h1>
 
-<p align="center">Relógio Digital Automático em Html, Css e Javascript, como mudança dinâmica de estilo e tema de background
-com recursos MODERNOS de Css e html como: Transparência e Animações, tudo de forma automatizada e além da página estar totalmente RESPONSIVA e com uma Interface MOBILE <br/><br/>
+<p align="left">Relógio Digital Automático em Html, Css e Javascript, como mudança dinâmica de estilo e tema de background
+com recursos MODERNOS de Css e html como: Transparência e Animações, tudo de forma automatizada e além da página estar totalmente RESPONSIVA e com uma Interface MOBILE. <br/><br/>
 Diferencial do Projeto: <br/>
   ✔️Relógio Digital Automático feito com Javascript,
   ✔️Background Dinâmico com as horas
@@ -44,15 +44,15 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### 🖥️ Layout Fullscreen / Tablet
 <p float="left">
-<img alt="Layout Fullscreen" title="Layout Fullscreen" width="120px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20tarde.png" />
-<img alt="Layout Tablet" title="Layout Tablet" width="120px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20madrugada.png" />
+<img alt="Layout Fullscreen" title="Layout Fullscreen" width="250px" height="125px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20tarde.png" />
+<img alt="Layout Tablet" title="Layout Tablet" width="250px" height="125px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20madrugada.png" />
   </p>
 
 ### 📱 Layout Mobile
 
 <p float="left">
-<img alt="Layout Mobile" title="Layout Mobile" width="100px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20mobile.png" />
-<img alt="Layout Mobile" title="Layout Mobile" width="100px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20mobile2.png" />
+<img alt="Layout Mobile" title="Layout Mobile" width="300px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20mobile.png" />
+<img alt="Layout Mobile" title="Layout Mobile" width="300px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20mobile2.png" />
 </p>
 
 ### ✉️ Contato
