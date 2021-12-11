@@ -29,7 +29,7 @@ function relogio() {
     }    
 
     // DISPLAY DO RELÓGIO AUTOMÁTICO
-    display.innerHTML = `${hora} : ${minutos} : ${segundos}`
+    display.innerHTML = `${hora}:${minutos}:${segundos}`
 
     if (hora >= 6 && hora < 12) {
         msg.innerHTML = `BOM DIA!`
@@ -69,30 +69,30 @@ function mudarHoras() {
     hora = mudouhoras
     
 
-    display.innerHTML = `${hora} : ${minutos} : ${segundos}`
+    display.innerHTML = `${hora}:${minutos}:${segundos}`
 
 
      // CONTROLE DE HORA
      if (hora < 10 ) {
-        var hora = `0${hora}`
+        var hora = ` 0${hora}`
     } else if ( hora >= 10) {
-        var hora = `${hora}` 
+        var hora = ` ${hora}` 
     }
     // CONTROLE DE MINUTOS
     if (minutos < 10 ) {
-        var minutos = `0${minutos}`
+        var minutos = ` 0${minutos}`
     } else if ( minutos >= 10) {
-        var minutos = `${minutos}` 
+        var minutos = ` ${minutos}` 
     }
     // CONTROLE DE SEGUNDOS
     if (segundos < 10 ) {
-        var segundos = `0${segundos}`
+        var segundos = ` 0${segundos}`
     } else if ( segundos >= 10) {
-        var segundos = `${segundos}` 
+        var segundos = ` ${segundos}` 
     }    
 
     // DISPLAY DO RELÓGIO AUTOMÁTICO
-    display.innerHTML = `${hora} : ${minutos} : ${segundos}`
+    display.innerHTML = `${hora}:${minutos}:${segundos}`
 
     if (hora >= 6 && hora < 12) {
         msg.innerHTML = `BOM DIA!`

@@ -1,11 +1,8 @@
 @font-face {
-    font-family: 'Ds Digital';
+    font-family:'Digital';
     src: url("/assets/font/DS-DIGI.ttf") format("truetype");
-         /* url("/assets/font/DS-DIGIB.TTF") format("truetype"),
-         url("/assets/font/DS-DIGII.TTF") format("truetype"),
-         url("/assets/font/DS-DIGIT.TTF") format("truetype"); */
-         font-weight: normal;
-         font-style: normal;
+    font-weight: normal;
+    font-style: normal;
   }
 body {
     margin: 0;
@@ -83,7 +80,7 @@ section {
     border: 2px solid rgba( 0, 0, 0, 0.1 ); 
     padding:10px;
     text-shadow: 0.1em 0.1em 0.2em black;
-    font-family: 'Ds Digital', 'ds digital';
+    font-family: 'Digital', 'digital';
     transition: all .8s ease-in-out;
 }
 #msg {
