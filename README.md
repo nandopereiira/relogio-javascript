@@ -1,14 +1,12 @@
-# relogio-javascript
-Projeto básico de um Relógio em Javascript com mudança Dinâmica do Estilo da Página
 
 <h1 align="center">
 <a href="https://nandopereiira.github.io/relogio-javascript/" align="center">
-<img alt="Relogio Javascript" title="Responsividade da Página" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/Rel%C3%B3gio%20Javascript.gif" />
+<img alt="Relogio Javascript" title="Responsividade da Página" width="300px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/Rel%C3%B3gio%20Javascript.gif" />
 </a>
-  <img alt="estilo do relogio page" title="estilo de dia" width="200px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20dia.png" />
-  <img alt="estilo do relogio page" title="estilo de tarde" width="200px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20tarde.png" />
-  <img alt="estilo do relogio page" title="estilo de noite" width="200px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20noite.png" />
-  <img alt="estilo do relogio page" title="estilo de madrugada" width="200px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20madrugada.png" />
+  <img alt="estilo do relogio page" title="estilo de dia" width="200px" height="200px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20dia.png" />
+  <img alt="estilo do relogio page" title="estilo de tarde" width="200px" height="200px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20tarde.png" />
+  <img alt="estilo do relogio page" title="estilo de noite" width="200px" height="200px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20noite.png" />
+  <img alt="estilo do relogio page" title="estilo de madrugada" width="200px" height="200px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20madrugada.png" />
 </h1>
 
 <h1 align="center">>Relógio Digital Automático Javascript</h1>
@@ -40,24 +38,24 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### 🔥 Features
 
-- [x] Layout Responsivo
-- [x] Menu Mobile
-- [x] Botão voltar ao topo em Javascript
-- [x] Icones de Mídias Sociais
-- [ ] Slide Automático de Imagens
+- [x] Relógio Digital Automático feito com Javascript,
+- [x] Background Dinâmico com as horas
+- [x] Seletor de horário pelo Usuário 
+- [x] Transparência e Animações em CSS
+- [x] Responvidade Mobile
 
 
 ### 🖥️ Layout Fullscreen / Tablet
 <p float="left">
-<img alt="Layout Fullscreen" title="Layout Fullscreen" width="190px" src="https://github.com/nandopereiira/tributepage/blob/main/assets/media/nandopereiira.github.io_tribute-page_%20(5).png" />
-<img alt="Layout Tablet" title="Layout Tablet" width="90px" src="https://github.com/nandopereiira/tributepage/blob/main/assets/media/nandopereiira.github.io_tribute-page_%20(4).png" />
+<img alt="Layout Fullscreen" title="Layout Fullscreen" width="120px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20tarde.png" />
+<img alt="Layout Tablet" title="Layout Tablet" width="120px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20madrugada.png" />
   </p>
 
 ### 📱 Layout Mobile
 
 <p float="left">
-<img alt="Layout Mobile" title="Layout Mobile" width="100px" src="https://github.com/nandopereiira/tributepage/blob/main/assets/media/nandopereiira.github.io_tribute-page_%20(1).png" />
-<img alt="Layout Mobile" title="Layout Mobile" width="60px" src="https://github.com/nandopereiira/tributepage/blob/main/assets/media/nandopereiira.github.io_tribute-page_%20(2).png" />
+<img alt="Layout Mobile" title="Layout Mobile" width="100px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20mobile.png" />
+<img alt="Layout Mobile" title="Layout Mobile" width="100px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20mobile2.png" />
 </p>
 
 ### ✉️ Contato
@@ -69,6 +67,7 @@ Feito com muito amor 💗 por <a href="https://www.linkedin.com/in/fernando-pere
 🤝Vamos trocar códigos e fazer aquele Networking!
 
 Só Fracassa quem Desiste💪!!BORA CODAR!!
+
 
 
 
