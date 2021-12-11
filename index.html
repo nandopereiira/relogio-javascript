@@ -7,15 +7,19 @@
     <title>Relógio Javascript</title>
     <link rel="stylesheet" href="./assets/css/style.css">
 </head>
-<body class="">
+<body>
     <header>
-        <img id="imagem" src="./assets/imagens/bg-manha.jpg" alt="foto do dia">
-    </header>
+       
+    </header>   
+    <img id="imagem" src="./assets/imagens/bg-manha.jpg" alt="background">
+
+    <!-- <div id="imagem"><img src="./assets/imagens/bg-manha.jpg" alt="background"></div> -->
+    
     <div class="container">
         <h1>Relógio Javascript</h1>
-        <div class="ball-gigantright"></div> 
-        <div class="ball-left2"></div>
-        <div class="ball-right1"></div>
+            <div class="ball-gigantright"></div> 
+            <div class="ball-left2"></div>
+            <div class="ball-right1"></div>
         <section>   
             <div id="display" ></div>
             <div  id="msg"></div>              
@@ -23,13 +27,24 @@
             <div class="ball-right2"></div> 
             <div class="ball-gigantleft"></div>     
 
-            <input type="number" id="numeros" placeholder="Escolha entre 0 e 23 horas!">
-            <button onclick="mudarHoras()" id="btn-mudar" title="Aqui você">Mudar</button> 
-            <button onclick="resetar()" id="btn-resetar">Resetar</button>
+            <input type="number" id="numeros" placeholder="Escolha entre 0 e 23 horas!" autofocus="autofocus">
+            <div class="btn-area">
+                <button onclick="mudarHoras()" id="btn-mudar" title="Aqui você">Mudar</button> 
+                <button onclick="resetar()" id="btn-resetar">Resetar</button>
+            </div>
+           
         </section>
-
-       
+                
     </div>
+    <footer>
+        <div class="credit">© Copyright - Page created by <a href="https://www.linkedin.com/in/fernando-pereira-008a18115/" alt="Fernando Pereira" title="Oi, Me segue no Linkedin">Fernando Pereira</a> </div>
+        <div class="box_social">
+            <a class="social" href="mailto:fernandopereira.developer@gmail.com"><img src="assets/imagens/email-12-48.ico" alt="Meu email" title="Meu contato" target="_blank" /></a>
+            <a class="social" href="https://github.com/nandospereira"><img src="assets/imagens/github-11-48.ico" alt="logo Github" title="Meu perfil do Github"/></a>
+            <a class="social" href="https://www.linkedin.com/in/fernando-pereira-008a18115/"><img src="assets/imagens/linkedin-5-48.ico" alt="logo Linkedin" title="Meu perfil do Linkedin"/></a>
+            <a class="social" href="https://www.instagram.com/nandopereira.dev/"><img src="assets/imagens/instagram-6-48.ico" alt="logo do Instagram" title="Meu Instagram" target="_blank" /></a>
+        </div>
+    </footer>
             <script src="./assets/js/script.js"></script>
 </body>
 </html>

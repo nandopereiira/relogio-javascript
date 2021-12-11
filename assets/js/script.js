@@ -97,23 +97,19 @@ function mudarHoras() {
     if (hora >= 6 && hora < 12) {
         msg.innerHTML = `BOM DIA!`
         img.src = './assets/imagens/bg-manha.jpg'
-        document.querySelector('body').classList.add('manha') 
     } else if (hora >= 12 && hora < 18) {
         msg.innerHTML = `BOA TARDE!`
         img.src = './assets/imagens/bg-tarde.jpg'
-        document.querySelector('body').classList.add('tarde')
     } else if (hora >= 18 && hora <= 23 ) {
         msg.innerHTML = `BOA NOITE!`
         img.src = './assets/imagens/bg-noite.jpg'
-        document.querySelector('body').classList.remove.value
-        document.querySelector('body').classList.add('noite')
     } else if (hora > 23) {
         msg.innerHTML = `Hora Inválida!!`
+        alert("Apenas valores entre 0 e 23 horas!");
+        relogio()
     } else if (hora >= 0) {
         msg.innerHTML = `BOA MADRUGADA!`
         img.src = './assets/imagens/bg-madrugada2.jfif'
-        document.querySelector('body').classList.remove.value
-        document.querySelector('body').classList.add('madrugada')
     }
 
  }
