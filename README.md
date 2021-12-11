@@ -6,14 +6,14 @@
 <p align="center">  <img alt="estilo do relogio page" title="estilo de dia" width="200px" height="100px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20dia.png" />  <img alt="estilo do relogio page" title="estilo de tarde" width="200px" height="100px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20tarde.png" />  <img alt="estilo do relogio page" title="estilo de noite" width="200px" height="100px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20noite.png" />  <img alt="estilo do relogio page" title="estilo de madrugada" width="200px" height="100px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20madrugada.png" /></p> 
 
 
-<h1 align="center">Relógio Digital Automático Javascript</h1>
+<h1 align="center">⌚Relógio Digital Automático Javascript</h1>
 
  <p>🚀 Link do Projeto: <a color="#ff0000" href="https://nandopereiira.github.io/relogio-javascript/">Relógio javascript</p></a>
 
   
 <p align="left">Relógio Digital Automático em Html, Css e Javascript, como mudança dinâmica de estilo e tema de background
 com recursos MODERNOS de Css e html como: Transparência e Animações, tudo de forma automatizada e além da página estar totalmente RESPONSIVA e com uma Interface MOBILE. <br/><br/>
-Diferencial do Projeto: <br/>
+💡 Diferencial do Projeto: <br/>
   ✔️Relógio Digital Automático feito com Javascript, <br/>
   ✔️Background Dinâmico com as horas <br/>
   ✔️Seletor de horário pelo Usuário <br/>
