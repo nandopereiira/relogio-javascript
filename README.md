@@ -8,16 +8,18 @@
 
 <h1 align="center">Relógio Digital Automático Javascript</h1>
 
+ <p>🚀 Link do Projeto: <a color="#ff0000" href="https://nandopereiira.github.io/relogio-javascript/">Tribute Page</p>
+
+  
 <p align="left">Relógio Digital Automático em Html, Css e Javascript, como mudança dinâmica de estilo e tema de background
 com recursos MODERNOS de Css e html como: Transparência e Animações, tudo de forma automatizada e além da página estar totalmente RESPONSIVA e com uma Interface MOBILE. <br/><br/>
 Diferencial do Projeto: <br/>
-  ✔️Relógio Digital Automático feito com Javascript,
-  ✔️Background Dinâmico com as horas
-  ✔️Seletor de horário pelo Usuário 
-  ✔️Transparência e Animações em CSS
-  ✔️Responvidade Mobile</p>
+  ✔️Relógio Digital Automático feito com Javascript, <br/>
+  ✔️Background Dinâmico com as horas <br/>
+  ✔️Seletor de horário pelo Usuário <br/>
+  ✔️Transparência e Animações em CSS <br/>
+  ✔️Responvidade Mobile</p> 
 <br/>
- <p>🚀 Link do Projeto: <a color="#ff0000" href="https://nandopereiira.github.io/relogio-javascript/">Tribute Page</p>
 
 ### Responsividade 100% em todas Telas / Mobile
 <a href="" align="center">
