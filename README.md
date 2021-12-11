@@ -8,7 +8,7 @@
 
 <h1 align="center">Relógio Digital Automático Javascript</h1>
 
- <p>🚀 Link do Projeto: <a color="#ff0000" href="https://nandopereiira.github.io/relogio-javascript/">Tribute Page</p></a>
+ <p>🚀 Link do Projeto: <a color="#ff0000" href="https://nandopereiira.github.io/relogio-javascript/">Relógio javascript</p></a>
 
   
 <p align="left">Relógio Digital Automático em Html, Css e Javascript, como mudança dinâmica de estilo e tema de background
