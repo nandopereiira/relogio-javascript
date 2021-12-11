@@ -1,15 +1,17 @@
 
 <h1 align="center">
 <a href="https://nandopereiira.github.io/relogio-javascript/" align="center">
-<img alt="Relogio Javascript" title="Responsividade da Página" width="300px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/Rel%C3%B3gio%20Javascript.gif" />
-</a>
-  <img alt="estilo do relogio page" title="estilo de dia" width="200px" height="200px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20dia.png" />
-  <img alt="estilo do relogio page" title="estilo de tarde" width="200px" height="200px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20tarde.png" />
-  <img alt="estilo do relogio page" title="estilo de noite" width="200px" height="200px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20noite.png" />
-  <img alt="estilo do relogio page" title="estilo de madrugada" width="200px" height="200px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20madrugada.png" />
+<img alt="Relogio Javascript" title="Responsividade da Página" width="500px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/Rel%C3%B3gio%20Javascript.gif"/></a> <br/>
+  
+  <h1 align="center">Relógio Digital Automático Javascript</h1>
+
+  <img alt="estilo do relogio page" title="estilo de dia" width="200px" height="100px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20dia.png" />
+  <img alt="estilo do relogio page" title="estilo de tarde" width="200px" height="100px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20tarde.png" />
+  <img alt="estilo do relogio page" title="estilo de noite" width="200px" height="100px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20noite.png" />
+  <img alt="estilo do relogio page" title="estilo de madrugada" width="200px" height="100px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20madrugada.png" />
 </h1>
 
-<h1 align="center">>Relógio Digital Automático Javascript</h1>
+<h1 align="center">Relógio Digital Automático Javascript</h1>
 
 <p align="center">Relógio Digital Automático em Html, Css e Javascript, como mudança dinâmica de estilo e tema de background
 com recursos MODERNOS de Css e html como: Transparência e Animações, tudo de forma automatizada e além da página estar totalmente RESPONSIVA e com uma Interface MOBILE <br/><br/>
@@ -24,7 +26,7 @@ Diferencial do Projeto: <br/>
 
 ### Responsividade 100% em todas Telas / Mobile
 <a href="" align="center">
-<img alt="Responsividade da Página" title="Responsividade da Página" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/screen%20mobile.png" />
+<img alt="Responsividade da Página" title="Responsividade da Página" width="500px" src="https://github.com/nandopereiira/relogio-javascript/blob/main/midia/Rel%C3%B3gio%20Javascript.gif" />
 </a>
 
 
